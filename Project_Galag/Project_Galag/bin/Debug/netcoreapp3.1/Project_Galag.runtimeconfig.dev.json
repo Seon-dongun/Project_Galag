@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dongu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dongu\\.nuget\\packages"
+    ]
+  }
+}

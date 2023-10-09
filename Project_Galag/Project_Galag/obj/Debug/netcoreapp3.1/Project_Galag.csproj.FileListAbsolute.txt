@@ -1,0 +1,80 @@
+C:\Users\dongu\source\repos\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.exe
+C:\Users\dongu\source\repos\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.deps.json
+C:\Users\dongu\source\repos\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.runtimeconfig.json
+C:\Users\dongu\source\repos\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.runtimeconfig.dev.json
+C:\Users\dongu\source\repos\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.dll
+C:\Users\dongu\source\repos\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.pdb
+C:\Users\dongu\source\repos\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.csproj.AssemblyReference.cache
+C:\Users\dongu\source\repos\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.csproj.GenerateResource.cache
+C:\Users\dongu\source\repos\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongu\source\repos\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.AssemblyInfoInputs.cache
+C:\Users\dongu\source\repos\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.AssemblyInfo.cs
+C:\Users\dongu\source\repos\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.csproj.CoreCompileInputs.cache
+C:\Users\dongu\source\repos\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.dll
+C:\Users\dongu\source\repos\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.pdb
+C:\Users\dongu\source\repos\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.genruntimeconfig.cache
+C:\Users\dongu\source\repos\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.Form1.resources
+C:\Users\dongu\OneDrive - Sejong University\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.exe
+C:\Users\dongu\OneDrive - Sejong University\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.deps.json
+C:\Users\dongu\OneDrive - Sejong University\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.runtimeconfig.json
+C:\Users\dongu\OneDrive - Sejong University\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.runtimeconfig.dev.json
+C:\Users\dongu\OneDrive - Sejong University\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.dll
+C:\Users\dongu\OneDrive - Sejong University\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.pdb
+C:\Users\dongu\OneDrive - Sejong University\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.csproj.AssemblyReference.cache
+C:\Users\dongu\OneDrive - Sejong University\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.Form1.resources
+C:\Users\dongu\OneDrive - Sejong University\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.csproj.GenerateResource.cache
+C:\Users\dongu\OneDrive - Sejong University\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongu\OneDrive - Sejong University\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.AssemblyInfoInputs.cache
+C:\Users\dongu\OneDrive - Sejong University\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.AssemblyInfo.cs
+C:\Users\dongu\OneDrive - Sejong University\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.csproj.CoreCompileInputs.cache
+C:\Users\dongu\OneDrive - Sejong University\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.dll
+C:\Users\dongu\OneDrive - Sejong University\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.pdb
+C:\Users\dongu\OneDrive - Sejong University\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.genruntimeconfig.cache
+C:\Users\손성민\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.exe
+C:\Users\손성민\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.deps.json
+C:\Users\손성민\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.runtimeconfig.json
+C:\Users\손성민\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.runtimeconfig.dev.json
+C:\Users\손성민\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.dll
+C:\Users\손성민\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.pdb
+C:\Users\손성민\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.csproj.AssemblyReference.cache
+C:\Users\손성민\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.Form1.resources
+C:\Users\손성민\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.csproj.GenerateResource.cache
+C:\Users\손성민\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\손성민\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.AssemblyInfoInputs.cache
+C:\Users\손성민\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.AssemblyInfo.cs
+C:\Users\손성민\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.csproj.CoreCompileInputs.cache
+C:\Users\손성민\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.dll
+C:\Users\손성민\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.pdb
+C:\Users\손성민\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.genruntimeconfig.cache
+C:\Users\dongu\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.exe
+C:\Users\dongu\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.deps.json
+C:\Users\dongu\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.runtimeconfig.json
+C:\Users\dongu\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.runtimeconfig.dev.json
+C:\Users\dongu\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.dll
+C:\Users\dongu\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.pdb
+C:\Users\dongu\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.csproj.AssemblyReference.cache
+C:\Users\dongu\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.Form1.resources
+C:\Users\dongu\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.csproj.GenerateResource.cache
+C:\Users\dongu\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongu\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.AssemblyInfoInputs.cache
+C:\Users\dongu\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.AssemblyInfo.cs
+C:\Users\dongu\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.csproj.CoreCompileInputs.cache
+C:\Users\dongu\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.dll
+C:\Users\dongu\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.pdb
+C:\Users\dongu\Sejong University\씨샵 프로젝트 - General\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.genruntimeconfig.cache
+C:\Users\dongu\OneDrive\바탕 화면\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.exe
+C:\Users\dongu\OneDrive\바탕 화면\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.deps.json
+C:\Users\dongu\OneDrive\바탕 화면\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.runtimeconfig.json
+C:\Users\dongu\OneDrive\바탕 화면\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.runtimeconfig.dev.json
+C:\Users\dongu\OneDrive\바탕 화면\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.dll
+C:\Users\dongu\OneDrive\바탕 화면\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.pdb
+C:\Users\dongu\OneDrive\바탕 화면\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.csproj.AssemblyReference.cache
+C:\Users\dongu\OneDrive\바탕 화면\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.Form1.resources
+C:\Users\dongu\OneDrive\바탕 화면\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.csproj.GenerateResource.cache
+C:\Users\dongu\OneDrive\바탕 화면\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongu\OneDrive\바탕 화면\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.AssemblyInfoInputs.cache
+C:\Users\dongu\OneDrive\바탕 화면\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.AssemblyInfo.cs
+C:\Users\dongu\OneDrive\바탕 화면\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.csproj.CoreCompileInputs.cache
+C:\Users\dongu\OneDrive\바탕 화면\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.dll
+C:\Users\dongu\OneDrive\바탕 화면\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.pdb
+C:\Users\dongu\OneDrive\바탕 화면\Project_Galag\Project_Galag\obj\Debug\netcoreapp3.1\Project_Galag.genruntimeconfig.cache
