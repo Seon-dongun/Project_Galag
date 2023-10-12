@@ -8,4 +8,4 @@ C#의 Winform을 통해 구현 고전 게임 갤러그입니다.
 
 [메인 소스 코드](https://github.com/Seon-dongun/Project_Galag/blob/master/Project_Galag/Form1.cs)
 
-[사용 리소스파일](https://github.com/Seon-dongun/Project_Galag/blob/master/Project_Galag/Project_Galag/bin/Debug/netcoreapp3.1/C# 리소스파일)
+[사용 리소스파일](https://github.com/Seon-dongun/Project_Galag/blob/master/Project_Galag/Project_Galag/bin/Debug/netcoreapp3.1/C%23%20리소스파일)
