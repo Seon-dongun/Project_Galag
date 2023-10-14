@@ -897,6 +897,14 @@ namespace Project_Galag
                 EnableBossShooting(); // 보스 객체의 공격을 시작해주는 타이머7 실행
                 bossAppear = true; // 보스 객체의 등장 상태를 true로 만든다
                 bossAppearTime = 0; // 보스 객체가 등장했기 때문에 보스 객체의 등장 대기시간 초기화
+
+                bossHP.SizeMode = PictureBoxSizeMode.AutoSize;
+                bossHP.Location = new Point(0, 0);
+
+                boss.Parent = this;
+                boss.Image = Image.FromFile("C# 리소스파일\\boss.gif");
+                boss.SizeMode = PictureBoxSizeMode.AutoSize;
+                boss.Location = new Point(0, 50);
             }
 
             if(bossAppear == true) // 보스 객체가 등장해 있다면 보스 이미지를 화면에 띄워주고 보스 객체의 피격횟수에 따른 보스 객체의 체력바를 업데이트
@@ -922,13 +930,6 @@ namespace Project_Galag
                     bossHP.Image = Image.FromFile("C# 리소스파일\\bossHP45.png");
                 else if (bossHitCnt <= 50)
                     bossHP.Image = Image.FromFile("C# 리소스파일\\bossHP50.png");
-                bossHP.SizeMode = PictureBoxSizeMode.AutoSize;
-                bossHP.Location = new Point(0, 0);
-
-                boss.Parent = this;
-                boss.Image = Image.FromFile("C# 리소스파일\\boss.gif");
-                boss.SizeMode = PictureBoxSizeMode.AutoSize;
-                boss.Location = new Point(0, 50);
             }
         }
 
