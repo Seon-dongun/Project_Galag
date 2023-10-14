@@ -1,6 +1,6 @@
 # Project_Galag
 
-C#의 Winform을 통해 구현 고전 게임 갤러그입니다.
+C#의 Windows Forms을 통해 구현 고전 게임 갤러그입니다.
   
 [조작법]  
 이동 : 방향키  
