@@ -14,7 +14,7 @@ C#의 Windows Forms을 통해 구현 고전 게임 갤러그입니다.
   
 게임 시연 영상 : https://youtu.be/8r_5vPcWxvI?si=cAmTrVmBokNc4txC
 
-[프로젝트 포트폴리오](https://docs.google.com/viewer?url=https://github.com/Seon-dongun/Project_Galag/raw/master/Project_Galag_보고서.pdf)
+[프로젝트 보고서](https://docs.google.com/viewer?url=https://github.com/Seon-dongun/Project_Galag/raw/master/Project_Galag_보고서.pdf)
 
 [메인 소스 코드](https://github.com/Seon-dongun/Project_Galag/blob/master/Project_Galag/Form1.cs)
 
