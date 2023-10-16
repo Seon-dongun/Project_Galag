@@ -1,4 +1,4 @@
-## Project_Galag
+# Project_Galag
 
 C#의 Windows Forms을 통해 구현 고전 게임 갤러그입니다.
   
