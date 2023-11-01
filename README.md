@@ -1,6 +1,6 @@
 # Project_Galag
 - C#의 Windows Forms을 통해 구현 고전 게임 갤러그입니다.
-- 압축 파일 해제 후 Project_Galag-master\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.exe 실행하여 플레이 할 수 있습니다
+- 압축 파일 다운로드 후 해제하여 Project_Galag-master\Project_Galag\Project_Galag\bin\Debug\netcoreapp3.1\Project_Galag.exe 실행하여 플레이 할 수 있습니다
 
 <br>
   
