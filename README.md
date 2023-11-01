@@ -17,6 +17,7 @@ https://youtu.be/8r_5vPcWxvI?si=cAmTrVmBokNc4txC
 <br>
 
 ### [프로젝트 보고서]  
+* 해당 링크 클릭 시 파일이 열리지 않는다면, 파일을 로딩하는 중이니 잠시만 기다려주십시오 *
 https://docs.google.com/viewer?url=https://github.com/Seon-dongun/Project_Galag/raw/master/Project_Galag_보고서.pdf  
 
 ### [메인 소스 코드]  
