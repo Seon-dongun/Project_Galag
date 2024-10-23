@@ -17,7 +17,7 @@ https://youtu.be/8r_5vPcWxvI?si=cAmTrVmBokNc4txC
 <br>
 
 ### [프로젝트 보고서]  
-https://docs.google.com/viewer?url=https://github.com/Seon-dongun/Project_Galag/raw/master/C#_Project_Galag_보고서.pdf  
+https://docs.google.com/viewer?url=https://github.com/Seon-dongun/Project_Galag/raw/master/Project_Galag_보고서.pdf  
 <br>
 ### [메인 소스 코드]  
 https://github.com/Seon-dongun/Project_Galag/blob/master/Project_Galag/Form1.cs  
